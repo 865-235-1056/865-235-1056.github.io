@@ -1823,6 +1823,9 @@ body {
 .cid-rXQFf4vBwQ H1 {
   color: #073b4c;
 }
+.cid-rXQFf4vBwQ H3 {
+  color: #149dcc;
+}
 .cid-rXFsz7wr0a {
   background: #1e1d1d;
 }
@@ -1843,4 +1846,7 @@ body {
 .cid-rXGCgimOma .mbr-text,
 .cid-rXGCgimOma .mbr-section-btn {
   color: #ffffff;
+}
+.cid-rXGCgimOma H1 {
+  color: #cc2952;
 }
